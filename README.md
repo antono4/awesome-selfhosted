@@ -1,2 +1,26 @@
-Last updated: 2026-09-03 20:58:33 WIB
-Last updated: 2026-09-03 23:28:04 WIB
+# awesome-selfhosted
+
+
+
+## 📋 Overview
+
+This repository contains **11 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 00:00:54 WIB*
